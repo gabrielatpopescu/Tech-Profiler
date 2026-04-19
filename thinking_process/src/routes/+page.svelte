@@ -267,7 +267,7 @@
         Technology Profiler & <span class="subheading" style="display: inline;">Market Intelligence</span>
       </h1>
       <p class="text-lg text-muted max-w-2xl mx-auto mt-4">
-        A scalable solution designed to identify the technology stack of online stores.
+        A scalable solution designed to identify the technology stack of websites.
       </p>
     </div>
   </section>
