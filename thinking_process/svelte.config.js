@@ -11,9 +11,8 @@ const config = {
 			fallback: '404.html'
 		}),
 		paths: {
-			// Dacă repository-ul tău nu este "username.github.io", 
-			// ci "username.github.io/nume-repo", adaugă numele repo-ului aici:
-			base: process.env.NODE_ENV === 'production' ? '/nume-repository-aici' : '',
+			// GitHub Pages path for TechnologyProfiler-main repository
+			base: process.env.NODE_ENV === 'production' ? '/TechnologyProfiler-main' : '',
 		}
 	}
 };
