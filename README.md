@@ -23,6 +23,7 @@ To see the statistics (after running main)
 ```
 uv run analyze_output.py
 ```
+## The presentation can be found [here](https://gabrielatpopescu.github.io/Tech-Profiler/), build with SvelteKit and hosted on GitHub Pages. The source code is in the `thinking_process` folder.
 
 # Debate Topics
 
