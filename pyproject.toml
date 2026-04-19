@@ -1,0 +1,15 @@
+[project]
+name = "technologyprofiler"
+version = "0.1.0"
+description = "Basic technology profiler"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "dnspython>=2.8.0",
+    "pandas>=3.0.2",
+    "playwright>=1.58.0",
+    "playwright-stealth>=2.0.3",
+    "pyarrow>=23.0.1",
+    "requests>=2.33.1",
+    "tqdm>=4.67.3",
+]
