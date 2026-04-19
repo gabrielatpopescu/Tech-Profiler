@@ -256,7 +256,7 @@
         </h1>
 
       <div class="flex gap-8">
-        <a href="https://github.com/gabrielatpopescu" target="_blank" class="text-sm font-semibold" style="color: #ff6b35;">View Code</a>
+        <a href="https://github.com/gabrielatpopescu/Tech-Profiler" target="_blank" class="text-sm font-semibold" style="color: #ff6b35;">View Code</a>
       </div>
     </div>
   </nav>
