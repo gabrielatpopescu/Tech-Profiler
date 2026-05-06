@@ -1,6 +1,6 @@
 # Technology Profiler
 
-This project uses the Warpalizer dataset and some additional data to profile technologies on websites.
+This project uses the Wappalyzer dataset and some additional data to profile technologies on websites.
 
 ## Run
 
